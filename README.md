@@ -1,6 +1,6 @@
 # CSharp-p-iprava-na-databaze
 
-<h1> SPQR </h1>
+<h1> Projekt: Příprava na databáze </h1>
 <ul>
   <li>Kompletní Xaml</li>
   <li>Nastavit GitHub repozitář</li>
